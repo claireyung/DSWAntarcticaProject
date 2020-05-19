@@ -1,10 +1,8 @@
 # DSWAntarcticaProject
 Annotated notebooks demonstrating the computational and analysis methods used in my project
 
-TS Plots version 1
+Transects and Map
 
-Transect plots including distance binning
+TS Histograms
 
-TS Plots version 2
-
-Map
+TS Plots and Mixing
